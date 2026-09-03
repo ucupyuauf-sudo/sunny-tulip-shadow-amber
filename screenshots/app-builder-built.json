@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sereh Merah (Cymbopogon nardus) | Panduan Tanaman Herbal",
+      "hasCanvas": false,
+      "bodyTextLen": 6947,
+      "bodyTextHash": "828f8e8791b3617751b5844f0e6501cfc51fbef3a80ea1e65b294f9527893f1c",
+      "bodyTextPrefix": "Lewati ke konten Sereh Merah Beranda Identitas Tentang Manfaat R",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sereh Merah (Cymbopogon nardus) | Panduan Tanaman Herbal",
+      "hasCanvas": false,
+      "bodyTextLen": 6947,
+      "bodyTextHash": "828f8e8791b3617751b5844f0e6501cfc51fbef3a80ea1e65b294f9527893f1c",
+      "bodyTextPrefix": "Lewati ke konten Sereh Merah Beranda Identitas Tentang Manfaat R",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
